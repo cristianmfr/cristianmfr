@@ -1,4 +1,4 @@
-<h3>⚡️about me</h3>
+<h3>⚡️ about me</h3>
 <div style="display: justify_content">
   <p>👨🏻‍💻mobile developer at TRZ Tech</p>
   <p>🧠computer science student</p>
@@ -8,7 +8,7 @@
   ##
   
 <div style="display: inline_block">
-  <h3>💻tech stacks</h3>
+  <h3>💻 tech stacks</h3>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
