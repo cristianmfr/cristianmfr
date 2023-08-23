@@ -12,10 +12,11 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png?20230428153009">
   <img align="center" alt="Swift" height="30" width="40" src="https://www.svgrepo.com/show/452110/swift.svg">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://www.svgrepo.com/show/349494/ruby.svg">
+  <img align="center" alt="Swift" height="30" width="40" src="https://www.svgrepo.com/show/376337/node-js.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://www.svgrepo.com/show/452238/jb-kotlin.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://www.svgrepo.com/show/452234/java.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/452234/java.svg">
 </div>
 
   ##
