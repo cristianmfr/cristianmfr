@@ -1,6 +1,6 @@
 <h3>⚡️about me</h3>
 <div style="display: justify_content">
-  <p>👨🏻‍💻 mobile developer at TRZ Tech</p>
+  <p>👨🏻‍💻 mobile/web developer</p>
   <p>🧠 computer science student</p>
   <p>🇧🇷 brazillian / es ~ vix</p>
 </div>
